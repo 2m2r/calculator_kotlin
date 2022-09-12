@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Eq Button -->
+    <color name="eq_button_BG">#007dfe</color>
+    <color name="eq_button_TXT">#f2ffff</color>
+
+    <!-- Num Button -->
+    <color name="num_button_BG">#fcfcfc</color>
+    <color name="num_button_TXT">#464646</color>
+
+    <!-- Fun Button -->
+    <color name="fun_button_BG">#f5f5f5</color>
+    <color name="fun_button_TXT">#007dfe</color>
+
+    <!-- Sin Button -->
+    <color name="sin_button_TXT">#878787</color>
+
+    <!-- Stroke Selector -->
+    <color name="stroke_selector">#d7d7d7</color>
+
+    <!-- Input Color -->
+    <color name="input_color">#464646</color>
+
+    <!-- Output Color -->
+    <color name="output_color">#a1a1a1</color>
+
+    <!-- Pressed True-->
+    <color name="pressed_true">#e1e0e0</color>
+
+    <!-- Eq Pressed True-->
+    <color name="eq_pressed_true">#046edc</color>
+
+</resources>
